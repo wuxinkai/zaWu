@@ -29,4 +29,8 @@ riot.js
 all.js
 common.js
 
+webstrom的快捷键
+ ait+1 隐藏侧边栏
+ait+7  显示目录结构
+
  

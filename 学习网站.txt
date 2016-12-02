@@ -1,0 +1,172 @@
+http://www.divcss5.com/jiqiao/j4.shtml  规范大全
+http://www.68design.net/   68设计师联盟
+http://www.runoob.com/     菜鸟教程
+http://www.ainatec.com/   交互网站
+http://www.h-ui.net/index.shtml   H-ui前端框架官方网站
+http://www.jq22.com/  jquery插件库
+http://www.ituring.com.cn/  图灵社区
+http://framework7.taobao.org/tutorials/#.VgkOyH06HQN	  Framework7 教程
+http://hao.uisdc.com/    设计师网站导航
+http://www.ycku.com/course/    瓢成web俱乐部
+http://yunkus.com/article/ziyuan/97.html   云库网
+http://dcloudio.github.io/mui/javascript/    MUI 
+http://www.swiper.com.cn/      Swiper中文网
+http://echarts.baidu.com/?qq-pf-to=pcqq.c2c    ECharts插件网站
+http://fontawesome.dashgame.com/   图标库
+http://www.cnblogs.com/    博客园
+http://top.jobbole.com/23981/ 伯乐在线
+wex5.com/cn/wex5  代码规范
+http://blog.csdn.net/huanglan513/article/details/8290792    Ajax调用后台方法的几种
+http://fex.baidu.com/ueditor/  UEditor 介绍
+ https://www.shiyanlou.com/courses/    实验楼
+http://www.zi-han.net/category/developer/css    后台主题
+http://segmentfault.com/about           SegmentFault
+http://www.swiper.com.cn/        Swiper中文网
+http://www.w3school.com.cn/    在线教程
+http://www.imooc.com/learn/102    慕课网
+http://www.sheji11.com/   设计资源网
+http://layer.layui.com/   leyer插件
+http://ke.qq.com/   腾讯课堂
+ http://www.jquery001.com/   jquery学习
+http://www.divcss5.com/css3/  在线学习
+http://caniuse.com/      检测css3和html5的兼容
+http://ftqq.com/    方糖气球
+http://www.2cto.com/kf/    程序开发
+http://share.baidu.com/  百度分享
+http://ke.atguigu.com/course/explore/Java?fliter=all&orderBy=latest   硅谷在线
+http://caniuse.com/  手册
+http://dojotoolkit.org/ 标准的响应式
+http://extjs.org.cn/   jQuery MiniU
+http://jquery.cuishifeng.cn/index.html  jquery手册
+http://www.oschina.net/   开元中国
+http://efe.baidu.com/  百度图表
+http://tushuo.baidu.com/ 绘制图片
+http://ecomfe.github.io/zrender/index.html 画布
+http://www.admin10000.com/javascript/ web开发者
+http://www.jsdaima.com/  js代码网   很重要
+http://www.16css.com/picture/775.html  一流资源网
+http://www.lanrentuku.com/js/  懒人图库
+http://down.admin5.com/texiao/   a5资源网
+http://www.alixixi.com/   阿里西西
+http://www.17sucai.com/  门素材
+http://www.sucaijiayuan.com/ 素材家园
+http://www.daimajiayuan.com/  代码家园
+https://icomoon.io/app/#/select  icon字体网站
+http://cdn.code.baidu.com/  百度静态资源网站
+http://www.miaov.com/2013/miaovideo/miaovideo.html   妙味课堂
+https://github.com   git 
+http://t.mb5u.com/jquery/  jQuery
+http://jqueryui.com/   jQueryUi
+http://v3.bootcss.com/components/  bootstrap
+http://www.runoob.com/bootstrap/bootstrap-navbar.html  bootstrap
+https://nodejs.org/en/  node
+https://packagecontrol.io/   sublime插件
+https://gsnedders.html5.org/outliner/  html5大纲要求
+http://www.w3cfuns.com/portal.php 极客学院
+https://www.smashingmagazine.com/tag/css/  css3
+http://www.gruntjs.net/   Grunt
+http://amazeui.org/react/  妹子ui
+http://www.hegouvip.com/ 合购网
+http://www.jszlm.cn/forum.php 合购技术统计
+http://tongji.baidu.com/web/welcome/login 百度统计
+http://www.css88.com/ 前端学院
+http://pan.baidu.com/share/home?uk=3560277524#category/type=0 传智播客
+http://school.zhufengpeixun.cn/ 珠峰网校
+http://tool.css-js.com/ 压缩js
+http://www.whycss.com/ 前端网
+http://www.17sucai.com/pins/2569.html 门素材
+http://cdn.code.baidu.com/  百度资源库
+https://segmentfault.com/    很重要的前端论坛
+http://www.jibbering.com/faq/#newsgroups  
+http://www.cnblogs.com/xxcanghai/p/4991870.html 博客园
+http://blog.jobbole.com/78738/ 伯乐在线
+http://www.w3cfuns.com/ 前端网
+http://css.doyoe.com/ css3手册
+http://www.jianshu.com/p/3aaad82fc3a1 面试
+http://www.fequan.com/ 前端圈
+http://www.codeceo.com/article/tag/javascript 码农网
+http://www.html5cn.org/ html5
+https://daneden.github.io/animate.css/  css3
+http://gulpjs.com/    gulpjs.
+http://eqxiu.com/home 易企秀
+http://www.open-open.com/lib/view/open1342188657510.html 正则
+http://www.jirengu.com/app/album/index 饥人谷
+http://www.ycku.com/course/ web飘城
+1. 极客标签：     http://www.gbtags.com/
+
+2. 码农周刊：     http://weekly.manong.io/issues/
+
+3. 前端周刊：     http://www.feweekly.com/issues
+
+4. 慕课网：       http://www.imooc.com/
+
+5. div.io：     http://div.io
+
+6. Hacker News： https://news.ycombinator.com/news
+
+7. InfoQ：       http://www.infoq.com/
+
+8. w3cplus：     http://www.w3cplus.com/
+
+9. Stack Overflow： http://stackoverflow.com/
+
+10.w3school：    http://www.w3school.com.cn/
+
+11.mozilla：     https://developer.mozilla.org/zh-CN/docs/Web/
+
+1. [jQuery 基本原理](http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/index.html "jQuery 基本原理")
+
+2. [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
+3. [CSS参考手册](http://css.doyoe.com/)
+
+4. [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+
+5. [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+http://yimeicloud.com.cn/  翼美
+http://w1515.com/news/view/8063 玩略猫
+www.agaokao.com 北京盛世天城科技有限公司
+http://www.hcharts.cn/index.php 表格插件
+
+手机端
+https://hammerjs.github.io/ 
+http://runjs.cn/code/to8wdmuy  runjs
+http://www.hcharts.cn/index.php 表格网站
+
+http://www.w3chtml.com/css3/properties/animation/animation-fill-mode.html css 文档
+http://tool.css-js.com/base64.html 压缩工具
+http://www.webhek.com/  骇客
+https://github.com/wuxinkai/zepto  git 手机文档
+http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html  git
+http://eqxiu.com/home  易企秀
+http://gulpjs.com/  gulpjs
+https://daneden.github.io/animate.css/  动画
+http://www.html5cn.org/  html5中国
+https://segmentfault.com/  最厉害的网站
+https://github.com/zhufengpeixun/Nodes201509 周啸天
+https://github.com/zhufengpeixun  珠峰
+http://www.cnblogs.com/ 博客园
+http://web.jobbole.com/85122/ 伯乐在线
+
+
+angul.JS
+http://www.miaoyueyue.com/archives/833.html 
+http://damoqiongqiu.iteye.com/category/287942 
+
+react网站
+http://reactnative.cn/ 
+https://facebook.github.io/react/ 
+字体图标网站
+https://icomoon.io/ 
+重置css样式
+http://cssreset.com/ 重置样式网站
+
+https://www.freecodecamp.com/about  美国慕课网
+http://dagaiwan.com/   js学习 网站
+http://coffee-script.org/     coffee-script学习
+https://github.com/zhufengnodejs?tab=repositories   珠峰资料
+https://zhufengnodejs.github.io/doc/html/react/react%E5%85%A5%E9%97%A8.html
+https://zhuanlan.zhihu.com/p/22229868  前段所以学的东西
+http://www.kancloud.cn/jikeytang/qq/81141  前端知识点
+http://www.hewebgl.com/    three.js 学习网站
+http://fex.baidu.com/webuploader/doc/index.html  上传下载
