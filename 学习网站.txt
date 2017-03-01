@@ -1,69 +1,4 @@
-http://www.divcss5.com/jiqiao/j4.shtml  规范大全
-http://www.68design.net/   68设计师联盟
-http://www.runoob.com/     菜鸟教程
-http://www.ainatec.com/   交互网站
-http://www.h-ui.net/index.shtml   H-ui前端框架官方网站
-http://www.jq22.com/  jquery插件库
-http://www.ituring.com.cn/  图灵社区
-http://framework7.taobao.org/tutorials/#.VgkOyH06HQN	  Framework7 教程
-http://hao.uisdc.com/    设计师网站导航
-http://www.ycku.com/course/    瓢成web俱乐部
-http://yunkus.com/article/ziyuan/97.html   云库网
-http://dcloudio.github.io/mui/javascript/    MUI 
-http://www.swiper.com.cn/      Swiper中文网
-http://echarts.baidu.com/?qq-pf-to=pcqq.c2c    ECharts插件网站
-http://fontawesome.dashgame.com/   图标库
-http://www.cnblogs.com/    博客园
-http://top.jobbole.com/23981/ 伯乐在线
-wex5.com/cn/wex5  代码规范
-http://blog.csdn.net/huanglan513/article/details/8290792    Ajax调用后台方法的几种
-http://fex.baidu.com/ueditor/  UEditor 介绍
- https://www.shiyanlou.com/courses/    实验楼
-http://www.zi-han.net/category/developer/css    后台主题
-http://segmentfault.com/about           SegmentFault
-http://www.swiper.com.cn/        Swiper中文网
-http://www.w3school.com.cn/    在线教程
-http://www.imooc.com/learn/102    慕课网
-http://www.sheji11.com/   设计资源网
-http://layer.layui.com/   leyer插件
-http://ke.qq.com/   腾讯课堂
- http://www.jquery001.com/   jquery学习
-http://www.divcss5.com/css3/  在线学习
-http://caniuse.com/      检测css3和html5的兼容
-http://ftqq.com/    方糖气球
-http://www.2cto.com/kf/    程序开发
-http://share.baidu.com/  百度分享
-http://ke.atguigu.com/course/explore/Java?fliter=all&orderBy=latest   硅谷在线
-http://caniuse.com/  手册
-http://dojotoolkit.org/ 标准的响应式
-http://extjs.org.cn/   jQuery MiniU
-http://jquery.cuishifeng.cn/index.html  jquery手册
-http://www.oschina.net/   开元中国
-http://efe.baidu.com/  百度图表
-http://tushuo.baidu.com/ 绘制图片
-http://ecomfe.github.io/zrender/index.html 画布
-http://www.admin10000.com/javascript/ web开发者
-http://www.jsdaima.com/  js代码网   很重要
-http://www.16css.com/picture/775.html  一流资源网
-http://www.lanrentuku.com/js/  懒人图库
-http://down.admin5.com/texiao/   a5资源网
-http://www.alixixi.com/   阿里西西
-http://www.17sucai.com/  门素材
-http://www.sucaijiayuan.com/ 素材家园
-http://www.daimajiayuan.com/  代码家园
-https://icomoon.io/app/#/select  icon字体网站
-http://cdn.code.baidu.com/  百度静态资源网站
-http://www.miaov.com/2013/miaovideo/miaovideo.html   妙味课堂
-https://github.com   git 
-http://t.mb5u.com/jquery/  jQuery
-http://jqueryui.com/   jQueryUi
-http://v3.bootcss.com/components/  bootstrap
-http://www.runoob.com/bootstrap/bootstrap-navbar.html  bootstrap
-https://nodejs.org/en/  node
-https://packagecontrol.io/   sublime插件
-https://gsnedders.html5.org/outliner/  html5大纲要求
-http://www.w3cfuns.com/portal.php 极客学院
-https://www.smashingmagazine.com/tag/css/  css3
+
 http://www.gruntjs.net/   Grunt
 http://amazeui.org/react/  妹子ui
 http://www.hegouvip.com/ 合购网
@@ -170,3 +105,58 @@ https://zhuanlan.zhihu.com/p/22229868  前段所以学的东西
 http://www.kancloud.cn/jikeytang/qq/81141  前端知识点
 http://www.hewebgl.com/    three.js 学习网站
 http://fex.baidu.com/webuploader/doc/index.html  上传下载
+
+http://www.html5plus.org/doc/zh_cn/xhr.html  手机端网站 h5规范
+
+http://tool.chinaz.com/Tools/Webdebugger.aspx  代码编译
+
+
+（1）熟练使用类库
+
+http://www.sketchcn.com/ Sketch 是一款适用于所有设计师的矢量绘图应用
+http://www.css88.com/archives/4784   Underscore.js
+http://lodashjs.com/    lodashjs  
+http://www.telerik.com/kendo-ui     kendo-ui
+
+（2）熟练使用MVC框架
+http://docs.angularjs.cn/    Angularjs
+    react
+      Fisp、
+http://webpackdoc.com/    Webpack
+http://cn.vuejs.org/     vue
+
+
+
+（3）熟练使用UI框架
+https://nodejs.org/en/  NodeJs
+
+
+（4）熟练使用功能插件
+
+
+
+（5）好的学习网站
+http://gold.xitu.io/  掘进
+
+
+（6）测试软件
+http://karmakarma.org/  Karma 是一个简单的javascript测试工具，它允许在多个真正的浏览器执行JavaScript代码.
+
+
+
+
+（7）熟练使用移动端调试工具
+ Chrome DEV Tools、Debugjs、Weinre、Puer、小苹果等
+
+
+（8）版本管控工具
+	熟悉SVN、Git
+（9）交互软件
+	能使用Axure设计用户交互原稿,熟悉常见设计原则
+（10）画图
+	ps 
+
+
+
+
+
