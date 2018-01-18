@@ -346,6 +346,17 @@ Contact 接触
 typescript  打字稿
 
 
+server  服务
+createServer 创建一个服务
+request  客户端的请求
+response  客户端发起的响应
+listen 监听的端口
+statusCode 响应码
+urlobj = url.parse(request.url)
+pathname
+
+
+
 
 
 
