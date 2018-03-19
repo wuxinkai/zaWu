@@ -1,0 +1,36 @@
+dos命令  win+r  打开面板
+
+ ifconfig查看ip地址
+
+ ifconfig/all查看详细地址
+
+ping www.baidu.com -t 持续打开百度的一个速度  
+
+ctrl+c退出当前操作
+
+exit关闭DOS窗口
+
+ cls是清楚屏幕
+cd ./ 是当前目录
+cd ../返回文件夹的上一级目录
+cd /返回跟目录
+
+ D:直接进入D盘
+cd shareproject 进入到D盘的 shareproject 文件夹中
+
+dir 查看当前文件夹下的目录 包括隐藏文件
+
+
+iscroll.js
+swiper.js
+zepto.js
+islider.js  //百度滑动框架
+riot.js
+all.js
+common.js
+
+webstrom的快捷键
+ ait+1 隐藏侧边栏
+ait+7  显示目录结构
+
+ 
